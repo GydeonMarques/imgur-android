@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Toobar default height -->
+    <dimen name="toolbar_dafault_height">55dp</dimen>
+
+    <!-- Margin default -->
+    <dimen name="margin_min_default">8dp</dimen>
+    <dimen name="margin_max_default">24dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+
+    <!-- Padding default -->
+    <dimen name="padding_min_default">8dp</dimen>
+    <dimen name="padding_max_default">24dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+
+    <!-- CardView -->
+    <dimen name="radius_default">6dp</dimen>
+    <dimen name="elevation_default">6dp</dimen>
+
+    <!-- TextView  -->
+    <dimen name="text_default_size">16sp</dimen>
+    <dimen name="text_default_small_size">12sp</dimen>
+    <dimen name="text_default_title_size">24sp</dimen>
+    <dimen name="text_default_great_size">52sp</dimen>
+    <dimen name="text_default_subtitle_size">18sp</dimen>
+
+</resources>

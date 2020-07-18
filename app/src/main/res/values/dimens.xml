@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Margin default -->
+    <dimen name="margin_min_default">8dp</dimen>
+    <dimen name="margin_max_default">24dp</dimen>
+    <dimen name="margin_default">16dp</dimen>
+
+    <!-- Padding default -->
+    <dimen name="padding_min_default">8dp</dimen>
+    <dimen name="padding_max_default">24dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+
+    <!-- TextView  -->
+    <dimen name="text_default_size">16sp</dimen>
+
+    <!-- Image  width/height -->
+    <dimen name="poster_small_width">110dp</dimen>
+    <dimen name="poster_small_heigth">110dp</dimen>
+
+    <!-- Icon default size -->
+    <dimen name="icon_default_great_width">48dp</dimen>
+    <dimen name="icon_default_great_height">48dp</dimen>
+
+</resources>

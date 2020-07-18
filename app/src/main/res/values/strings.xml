@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imgur - Desafio Técnico</string>
+    <string name="no_internet_connection">Sem conexão com\na internet.</string>
+    <string name="the_images_could_not_be_loaded">Não foi possível\ncarregar as imagens.</string>
+</resources>
